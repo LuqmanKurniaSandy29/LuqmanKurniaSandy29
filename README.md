@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LuqmanKurniaSandy29/LuqmanKurniaSandy29/blob/main/assets/Banner.png?raw=true" alt="LinkedIn Banner" width="800" />
+  <img src="https://github.com/LuqmanKurniaSandy29/LuqmanKurniaSandy29/blob/main/assets/Banner.png?raw=true" alt="LinkedIn Banner" width="100%" />
 </p>
 
 ### 🌐 Connect with me:
@@ -48,6 +48,6 @@ In this journey, I am guided by a relentless pursuit of knowledge and a deep-sea
 
 <p align="center">
   <!-- GIF kontribusi -->
-  <img src="https://github.com/LuqmanKurniaSandy29/LuqmanKurniaSandy29/blob/main/assets/contribute.gif?raw=true" alt="Contribute GIF" width="800" />
+  <img src="https://github.com/LuqmanKurniaSandy29/LuqmanKurniaSandy29/blob/main/assets/contribute.gif?raw=true" alt="Contribute GIF" width="100%" />
 </p>
 
