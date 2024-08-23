@@ -19,7 +19,7 @@
   </a>
 </p>
 
-### 😎 About me
+### 😎 About me:
 
 I am one of the many people who possess an unwavering passion for the world of web development. Like an explorer armed with a map brimming with hidden secrets, I eagerly delve into the vast expanse of code, piecing together elements to create something truly extraordinary. Every line of code is a step on a thrilling journey, where creativity meets logic, and innovation is born.
 
